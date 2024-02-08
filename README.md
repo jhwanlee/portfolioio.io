@@ -26,13 +26,11 @@
 
 ## 3. ERD 설계
 ![erd](https://github.com/jhwanlee/portfolioio.io/assets/145407280/3098a0b3-2d59-4959-9891-3b118cf1f70a)
-![](https://github.com/JungHyung2/gitio.io/blob/master/assets/images/portfolio/p1.jpg)
 
 
 ## 4. 핵심 기능
-이 서비스의 핵심 기능은 컨텐츠 등록 기능입니다.  
-사용자는 단지 컨텐츠의 카테고리를 선택하고, URL만 입력하면 끝입니다.  
-이 단순한 기능의 흐름을 보면, 서비스가 어떻게 동작하는지 알 수 있습니다.  
+이 서비스의 주요 기능은 소셜로그인, 피드작성, 매칭&용병등록, 피드백 기능입니다.  
+
 
 <details>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
