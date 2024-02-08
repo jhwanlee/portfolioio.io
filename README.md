@@ -10,25 +10,8 @@
 
 </br>
 
-## 2. 사용 기술
-#### `Back-end`
-  - Java 8
-  - Spring Data JPA
-  - QueryDSL
-  - H2
-  - MySQL 5.7
-  - 
-#### `Front-end`
-  - Vue.js 3.0
-  - Element UI
+## 2. 담당 기능
 
-</br>
-
-## 3. ERD 설계
-![erd](https://github.com/jhwanlee/portfolioio.io/assets/145407280/3098a0b3-2d59-4959-9891-3b118cf1f70a)
-
-
-## 4. 핵심 기능
 이 서비스의 주요 기능은 소셜로그인, 피드작성, 매칭&용병등록, 피드백 기능입니다.  
 
 
