@@ -25,7 +25,7 @@
 </br>
 
 ## 3. ERD 설계
-![]([https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png](https://private-user-images.githubusercontent.com/145407027/289261415-70366a28-f798-4b20-99a9-bcecf0bb0b05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczNTA5MDcsIm5iZiI6MTcwNzM1MDYwNywicGF0aCI6Ii8xNDU0MDcwMjcvMjg5MjYxNDE1LTcwMzY2YTI4LWY3OTgtNGIyMC05OWE5LWJjZWNmMGJiMGIwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwOFQwMDAzMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xM2QyOGY4YmQ5OTY4NmI0ZjM3Mzc5NjAyMjQyYTcyZDRmYmI2YWQ1ODliNGFiM2I2ZTFmMzhlZDZkYmMyYzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DKRK9AfSDQq9dNa2f4USugdAxItVbyZrpj9vf0taGJ4))
+![erd](https://github.com/jhwanlee/portfolioio.io/assets/145407280/3098a0b3-2d59-4959-9891-3b118cf1f70a)
 ![](https://github.com/JungHyung2/gitio.io/blob/master/assets/images/portfolio/p1.jpg)
 
 
